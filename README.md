@@ -1,3 +1,2 @@
 # TemplateAgnecy
-Used HTML, CSS, Bootstrap, Jquery, JavaScript
-With adaptive
+Used HTML, CSS, Bootstrap, Jquery, JavaScript, with adaptive
